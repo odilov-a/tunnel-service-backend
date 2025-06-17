@@ -13,8 +13,8 @@
 ## 🚀 Boshlash
 
 ```bash
-git clone https://github.com/yourusername/mytunnel-backend.git
-cd mytunnel-backend
+git clone https://github.com/odilov-a/tunnel-service-backend.git
+cd tunnel-service-backend
 npm install
 ```
 
